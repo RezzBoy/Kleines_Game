@@ -152,7 +152,7 @@ int main()
 	feld.removePosition(a.altePos[0], a.altePos[1]);
 	feld.printFeld();
 
-
+	test
 
 
 	system("PAUSE");
